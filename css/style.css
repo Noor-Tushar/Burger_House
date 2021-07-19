@@ -121,7 +121,7 @@ coffee color:  #3d2514*/
 
 .banner {
   display: flex;
-  padding: 20px 0;
+  
   align-items: center;
 }
 
@@ -166,8 +166,8 @@ h2 {
 
 .sub-image {
   position: absolute;
-  bottom: 0px;
-  left: 0px;
+      bottom: 157px;
+    left: 76px;
   max-width: 100%;
 }
 
@@ -603,7 +603,7 @@ h2 {
 .owl-dots {
   position: absolute;
   left: 32px;
-  bottom: 28px;
+      bottom: 57px;
 }
 
 .owl-theme .owl-dots .owl-dot.active span,
